@@ -18,10 +18,10 @@ We are open to pull requests from contributers. For bigger changes an issue is p
 
   - Fork from the repository and, if needed, rebase to the current target branch (most likely "master") before submitting or during your pull request.
   - Add an description and if neccesary imagery to the pull request describing the changes.
-  - Append additional documentation or other helpful information for reviewers 
+  - Append additional documentation or other helpful information for reviewers.
   - Commits should be to the point and contain useful commit messages.
   - Make sure the pull request passes all automated checks.
-  - Resolve comments from reviewers by amending these changes to an existing commit and force-push said changes
+  - Resolve comments from reviewers by amending these changes to an existing commit and force-push said changes.
 
 ## Sharing ideas and knowledge
 
